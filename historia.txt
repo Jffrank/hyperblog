@@ -1,3 +1,6 @@
 Está es una prueba del curso 
 
+Adicionalmente estoy aprendiendo de la denominación 
+de los comandos de Git
+
 De JFGG de platzi
