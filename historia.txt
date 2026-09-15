@@ -1,5 +1,7 @@
 Está es una prueba del curso 
 
+Anita Platzi tiene 40 años y nación en internet
+
 Adicionalmente estoy aprendiendo de la denominación 
 de los comandos de Git
 
